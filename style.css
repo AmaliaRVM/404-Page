@@ -1,0 +1,15 @@
+body {
+    background-image: url("images/kanal.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+}
+.top {
+ text-align: center;
+ color: white;
+ font-size:150%;
+ margin: auto;   
+}
+.prev {
+    background-color: white;
+    color: black;
+}

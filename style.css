@@ -15,4 +15,5 @@ background-repeat: no-repeat;
 .prev {
     background-color: white;
     color: black;
+    padding: 20px;
 }
